@@ -1,4 +1,4 @@
-Modules for sydes
+Modules for SyDES
 =============
 
 Every folder is one module
